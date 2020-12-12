@@ -1,0 +1,19 @@
+Tambahan
+- pada part 2 gunakan $composer require laravel/ui "^1.0" --dev -vvv
+- php artisan db:seed --class=UsersTableSeeder / Sedder sendiri
+- php artisan db:seed / sedder semua class
+- setting mail otomatis
+- php artisan queue:work | menjalankan upload excel
+- php artisan storage:link
+MAIL_DRIVER=smtp
+MAIL_HOST=smtp.mailtrap.io
+MAIL_PORT=2525
+MAIL_USERNAME=d07be03f50f3cd
+MAIL_PASSWORD=73c12c2c34b657
+MAIL_ENCRYPTION=tls
+MAIL_FROM_ADDRESS=m_iqbal_adenan@gmail.com
+MAIL_FROM_NAME="${APP_NAME}"
+
+
+
+Lanjut Part 20
